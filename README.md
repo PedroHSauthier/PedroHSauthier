@@ -1,16 +1,43 @@
-## Hi there 👋
+## Olá, sou o Pedro 👋
 
-<!--
-**PedroHSauthier/PedroHSauthier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Desenvolvedor web frontend & backend
 
-Here are some ideas to get you started:
+- 🌐 HTML | CSS | JavaScript | TypeScript | Next.JS | React.JS | Node.js | .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📂 Meu portfólio: <a href="" target="_blank">pedroPySauthier.com</a>
+
+- 💬 Veja meus contatos: <a href="" target="_blank">social-pedroPySauthier</a>
+
+<br>
+
+### 🛠 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="REACT" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NODE" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="DOT-NET" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+</div>
+
+<br>
+
+### 📞 Contate-me
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+### 💻 Github Stats
+
+<div>
+  <a href="https://github.com/oliver-zyn">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHSauthier&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSauthier&layout=compact&langs_count=4&theme=github_dark"/>
+</div>
